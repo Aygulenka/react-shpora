@@ -1,6 +1,9 @@
 {
   "name": "react-shpora",
+<<<<<<< HEAD
   "homepage": "https://Aygulenka.github.io/react-shpora",
+=======
+>>>>>>> a8809cbb6b49448df244dffa991779236cb05f8d
   "version": "0.1.0",
   "private": true,
   "dependencies": {

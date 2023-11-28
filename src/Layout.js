@@ -2,8 +2,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { FaHome } from 'react-icons/fa';
+<<<<<<< HEAD
 // Correct import
 import Button from './buttons/button';
+=======
+import Button from './buttons/Button';
+>>>>>>> a8809cbb6b49448df244dffa991779236cb05f8d
 import logo from './logo192.png';
 import './logo.css';
 import './layout.css';
